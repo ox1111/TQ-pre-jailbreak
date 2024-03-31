@@ -4,7 +4,7 @@ A **PRE**-jailbreak for iOS 14.0 ~ iOS 14.3 on all devices.
 
 Generally speaking, jailbreak starts from an arbitrary kernel r/w vulnerability, so I name it pre-jailbreak. Actually, CVE-2021-1782(cicuta\_virosa) is the pre-jailbreak thing.
 
-Implemented an arbitrary r/w primitive based on [cicuta\_virosa](https://github.com/ModernPwner/cicuta_virosa). Useful to security researchers, and jailbreak developers.
+Implemented an arbitrary r/w primitive based on [cicuta\_virosa](https://github.com/ox1111/cicuta_virosa). Useful to security researchers, and jailbreak developers.
 
 # Warranty
 
